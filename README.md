@@ -54,7 +54,6 @@ A clean master dataset (`twitter_archive_master.csv`): 1,316 tweets, 10 columns,
 - Golden Retriever is the most common breed (128 tweets), followed by Pembroke (80) and Labrador Retriever (79).
 - Ratings are tightly clustered: 1,271 of 1,316 tweets are rated between 8 and 14 out of 10 (median 11).
 - Pupper is the most common dog stage (121 tweets).
-- [Add breed-level findings only after filtering to breeds with at least 10 tweets.]
 
 ## Tools
 Python, pandas, NumPy, matplotlib, requests, tweepy, Jupyter
